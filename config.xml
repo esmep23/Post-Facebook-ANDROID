@@ -18,7 +18,7 @@
     <preference name="phonegap-version" value="2.9.0" />
     
     <gap:plugin name="com.phonegap.plugins.facebookconnect">
-       <param name="APP_ID" value="470700906355954" />
+       <param name="APP_ID" value="528477013916370" />
        <param name="APP_NAME" value="Brent1" />
     </gap:plugin>
     
