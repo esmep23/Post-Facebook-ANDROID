@@ -21,7 +21,7 @@
        <param name="APP_ID" value="528477013916370" />
        <param name="APP_NAME" value="shareEjemplo" />
     </gap:plugin>
-    
+
 
     <config-file target="config.xml" parent="/*">
       <access origin="https://m.facebook.com" />
