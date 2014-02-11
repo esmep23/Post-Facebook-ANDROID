@@ -21,9 +21,7 @@
        <param name="APP_ID" value="470700906355954" />
        <param name="APP_NAME" value="Brent1" />
     </gap:plugin>
-    <feature name="org.apache.cordova.facebook.Connect">
-        <param name="ios" value="FacebookConnectPlugin" />
-    </feature>
+    
 
     <config-file target="config.xml" parent="/*">
       <access origin="https://m.facebook.com" />
