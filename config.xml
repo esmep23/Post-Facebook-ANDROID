@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.littlebluebird.phonegap.facebook"
+        id          = "com.maruridigital.phonegap.facebook"
         versionCode = "10"
         version     = "0.1.1">
  
@@ -11,7 +11,7 @@
         phonegap facebook plugin
     </description>
  
-    <author href="http://www.littlebluebird.com" email="bdunklau@yahoo.com">
+    <author href="http://www.maruridigital.com" email="bdunklau@yahoo.com">
         Brent Dunklau
     </author>
     
