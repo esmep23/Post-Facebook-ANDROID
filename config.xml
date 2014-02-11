@@ -22,8 +22,10 @@
        <param name="APP_NAME" value="Brent1" />
     </gap:plugin>
     <feature name="org.apache.cordova.facebook.Connect">
-<param name="android-package" value="org.apache.cordova.facebook.ConnectPlugin" />
-</feature>
+        <param name="ios-package" value="FacebookConnectPlugin" />
+    </feature>
+
+    <access origin="*" />
     
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
