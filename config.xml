@@ -19,7 +19,7 @@
     
     <gap:plugin name="com.phonegap.plugins.facebookconnect">
        <param name="APP_ID" value="528477013916370" />
-       <param name="APP_NAME" value="Brent1" />
+       <param name="APP_NAME" value="shareEjemplo" />
     </gap:plugin>
     
 
